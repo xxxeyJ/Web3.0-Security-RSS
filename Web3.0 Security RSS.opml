@@ -23,6 +23,7 @@
 <outline type="rss" title="Dedaub - Medium" htmlUrl="https://media.dedaub.com?source=rss----135bc95ee38---4" xmlUrl="https://media.dedaub.com/feed" text="Dedaub - Medium" />
 <outline htmlUrl="https://blog.coinfabrik.com" title="CoinFabrik Blog" type="rss" xmlUrl="https://blog.coinfabrik.com/feed/" text="CoinFabrik Blog" />
 <outline text="Ashiq's blog" title="Ashiq's blog" type="rss" xmlUrl="https://ashiq.co.za/feed.xml" htmlUrl="https://ashiq.co.za" />
+<outline title="Solidity announcements" text="Solidity announcements" type="rss" htmlUrl="https://blog.soliditylang.org" xmlUrl="https://blog.soliditylang.org/feed.xml" /> 
 </outline>
 </body>
 </opml>
